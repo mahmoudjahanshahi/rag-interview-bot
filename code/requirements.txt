@@ -4,3 +4,4 @@ azure-cosmos
 pandas
 numpy
 scikit-learn
+python-dotenv

@@ -12,6 +12,9 @@ st.caption("Ask questions for your job interview preparation.")
 st.sidebar.header("Settings")
 neighbors = st.sidebar.slider("Number of context chunks", 1, 5, 3)
 
+# Display information about the app
+st.sidebar.markdown("[View source on GitHub](https://github.com/mahmoudjahanshahi/rag-interview-bot)", unsafe_allow_html=True)
+
 # Chat interface
 user_input = st.text_input("Your question:", placeholder="Am I a good fit for this job?")
 
