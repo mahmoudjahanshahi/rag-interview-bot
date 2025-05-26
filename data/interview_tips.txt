@@ -1,0 +1,44 @@
+# General Interview Tips
+
+- Be concise, clear, and structured in all your answers.
+- Use the STAR method (Situation, Task, Action, Result) for behavioral questions.
+- Practice common openers like "Tell me about yourself" and "Why do you want this role?"
+- Align your answers with the company’s mission, culture, and the job description.
+
+# STAR Method Example
+
+Q: Tell me about a time you solved a difficult problem.
+
+A: "At my previous job, we encountered X (Situation). My task was Y (Task). I did A, B, and C (Action). As a result, Z happened (Result)."
+
+# Technical Interview Tips
+
+- When answering system design questions, start with clarifying requirements.
+- Break down complex problems into components before diving into code or architecture.
+- Mention trade-offs when choosing tools (e.g., RAG vs. fine-tuning, SQL vs. NoSQL).
+
+# Role-Specific Advice (AI Architect, Consulting)
+
+- Emphasize cross-functional communication skills—how you translate business needs into technical solutions.
+- Show a strong grasp of cloud infrastructure (especially Azure) and enterprise-grade AI deployment.
+- Expect questions on ethical AI, data governance, and secure deployment practices.
+
+# Consulting Soft Skills
+
+- Show that you're client-facing, adaptable, and collaborative.
+- Demonstrate proactive leadership: "I proposed X, which led to Y."
+- Be prepared for scenario-based questions: "What would you do if a client disagreed with your solution?"
+
+# Common Questions
+
+- Tell me about yourself.
+- What’s a recent technical challenge you overcame?
+- How do you stay updated with the latest in AI/ML?
+- Describe a time when you had to explain a complex concept to a non-technical stakeholder.
+- Why do you want to work at Avanade?
+
+# Final Tips
+
+- Prepare 1–2 smart questions to ask at the end (e.g., “How does Avanade define success in this role?”).
+- Practice answers aloud to improve confidence and flow.
+- Rest well before the interview. Mindset matters.

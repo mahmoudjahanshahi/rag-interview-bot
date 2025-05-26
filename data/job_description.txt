@@ -1,0 +1,62 @@
+Job Title: Data Analytics & AI
+Artificial Intelligence Analytics Architect - Flexible Location
+Country: Brazil, Canada, Italy, Portugal, Spain, Sweden, United Kingdom, United States
+Cities: Atlanta, Chicago, Lisbon, London, Madrid, New York City, Rome, Sao Paulo, Seattle, Stockholm, Toronto
+
+Job description
+Artificial Intelligence Analytics Architect
+Our talented Data & AI Practice is made up of globally recognized experts - and there’s room for more analytical and ambitious data professionals. If you’re passionate about helping clients make better data-driven decisions to tackle their most complex business issues, let’s talk. Take your skills to a new level and launch a career where you can truly do what matters.  
+
+Come join us 
+As an Artificial Intelligence Analytics Architect, you will bring expert-level knowledge in support of sales motions and project execution across Avanade's Data & AI portfolio. We are looking for SME who brings deep engineering experience and a strategic mindset to design, build, and operationalize enterprise AI and machine learning solutions—particularly those involving large language models (LLMs), agentic systems and operationalization of AI/ML systems. This role requires a deep understanding of AI/ML technologies, cloud platforms, and the ability to translate complex business requirements into scalable, production-ready solutions for our clients.  
+
+What you’ll do 
+- Architect Scalable AI Solutions: Design and optimize end-to-end ML and LLM systems—including traditional ML, retrieval-augmented generation (RAG), and agentic AI architectures—that serve real-time and batch workloads at enterprise scale. 
+- Build and Operationalize Production Systems: Lead implementation of production-ready AI solutions using tools such as Azure ML, Databricks, and Azure AI Foundry, ensuring performance, reliability, security, and compliance. 
+- Define Best Practices and Frameworks: Collaborate with solution architects, engineers, and data scientists to set architecture standards, delivery frameworks, and reusable components that enable consistent, high-quality AI deployments. 
+- Mentor and Enable Teams: Coach junior engineers and architects, lead technical reviews, and foster a culture of innovation and engineering excellence across AI teams at Avanade. 
+- Drive Continuous Innovation: Stay current with advancements in AI/ML and integrate them into enterprise architectures to future-proof solutions. 
+
+Skills and experiences  
+- AI & ML Architecture: Proven experience architecting end-to-end solutions across the ML and LLM lifecycle—from data ingestion and model training to inference, monitoring, and continuous improvement. 
+- Strategic & Business Alignment: Ability to balance technical feasibility with business value, driving adoption of AI technologies that align with organizational priorities and customer needs. 
+- Cloud & Data Ecosystems: Deep familiarity with Azure and with tools like Azure Functions, AKS, Event Hubs, Spark, for scalable, real-time architectures. 
+- Programming & Tools Proficiency: Strong working knowledge in Programming/scripting languages, i.e., Python/Java, Scala, SQL, and experience across machine learning and deep learning frameworks (e.g., PyTorch, TensorFlow). 
+- Deployment & MLOps: Understanding of modern MLOps practices, including containerization (Docker, Kubernetes), CI/CD pipelines, and observability tools. 
+- LLMs and Agentic Systems: Experience building solutions using LLMs, with practical understanding of prompt engineering, semantic search, tool usage, and orchestrated multi-agent workflows. 
+- Communication & Leadership: Ability to engage both technical and non-technical stakeholders, lead architecture reviews, and represent AI strategy in cross-functional conversations. 
+- Continuous Learning: Strong curiosity and drive to stay current with the latest AI research, technologies, and tools—and apply that knowledge to build smarter, more effective solutions. 
+
+About you 
+Characteristics that can spell success for this role: 
+- Consultative, collaborative, curious 
+- Resilient, adaptable, flexible 
+- Humble leader, master negotiator, relationship builder 
+- Passionate about tech and engaging with and advising clients 
+
+Some of the best things about working at Avanade  
+- Opportunity to work for Microsoft’s Global Alliance Partner of the Year, with exceptional development and training (minimum 80 hours per year for training and paid certifications)   
+- Real-time access to technical and skilled resources globally   
+- Dedicated career advisor to encourage your growth  
+- Engaged and helpful coworkers genuinely interested in you    
+
+As you bring your skills and abilities to Avanade, you’ll get distinctive experiences, limitless learning, and ambitious growth in return. As we continue to build our diverse and inclusive culture, we become even more innovative and creative, helping us better serve our clients and communities. You’ll join a community of smart, supportive collaborators to lift, mentor, and guide you, and to lean on your expertise. You get a company purpose-built for business-critical, leading-edge technology solutions, committed to improving the way humans work, interact, and live. It’s all here, so take a closer look!  
+
+We work hard to provide an inclusive, diverse culture with a deep sense of belonging for all our employees. Visit our Inclusion & Diversity page.  
+
+Create a future for our people that focuses on  
+- Expanding your thinking
+- Experimenting courageously
+- Learning and pivoting  
+   
+Inspire greatness in our people by  
+- Empowering every voice
+- Encouraging boldness
+- Celebrating progress   
+
+Accelerate the impact of our people by  
+- Amazing the client
+- Prioritizing what matters
+- Acting as one
+
+To learn more about Avanade, please visit https://www.avanade.com/
